@@ -39,7 +39,7 @@ These percentages reflect the relative amount of code in each technology used to
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/Prashantdhaka23/sorting-visulaizer.git
    ```
 
 2. Navigate to the project directory:
